@@ -1,0 +1,4 @@
+Assume your laptop can execute one step of an algorithm in one nanosecond.  You have algorithms with the following number of steps:  Log(N), NLog(N), N, N^2, N^3, 2^N, N!. 
+Build a table showing how long your laptop will take to run each algorithm for the following values of N:  10, 100, 1000, 10,000, 100,000.
+
+Submit either a Word or EXCEL file named with ORDER underscore your initials.

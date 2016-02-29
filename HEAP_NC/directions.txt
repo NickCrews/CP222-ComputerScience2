@@ -1,0 +1,3 @@
+Write a program to sort numbers from a file with the HeapSort  Your program should use an array to implement the heap.  You may or may not decide to use a GUI.  You should include enough in-code documentation to show that you understand how the algorithm works. (If you are interested, consider writing the algorithm with a recursive call.) 
+
+Name your program with HEAP underscore your initials.

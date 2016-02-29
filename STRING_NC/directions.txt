@@ -1,0 +1,1 @@
+Write a program to input a sentence and then print the words in reverse order.  Name your folder with String followed by an underscore and your initials.

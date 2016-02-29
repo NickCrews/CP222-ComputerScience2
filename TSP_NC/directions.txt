@@ -1,0 +1,10 @@
+Write a program to solve instances of the Traveling SalesPerson Problem.  Your program should read a cost matrix from a text file.  The file contains an integer indicating how many cities (N). There are then N^2 integers indicating the matrix row by row.  There are zeroes on the diagonal.  Your program should find the least cost path and print it out along with how long the calculation took.  (Use System.nanoTime() to time your program.)
+
+
+In order to score 90% and above, you should implement some branch and bound technique. Then determine how large a TSP problem you can solve in under 15 minutes.
+
+Options:
+
+  Try to improve on the branch and bound discussed in class. Count how many nodes you actually visit versus the total number of nodes in the tree.
+  Implement a faster algorithm for finding permutations.  (Will a non-recursive algorithm work faster?)
+Name the folder you turn in with TSP underscore and your initials.

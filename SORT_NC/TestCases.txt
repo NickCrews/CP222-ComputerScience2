@@ -1,0 +1,19 @@
+Case:
+input lists of length 0, 1, 2, 3, 10, 100
+
+REsult:
+All the algorithms should work with any length
+
+
+Case:
+input list has repeated values
+
+Result:
+It works
+
+
+Case:
+selectionSort() is tested with different length lists
+
+Result:
+It follows the expected N(N-1)/2 complexity

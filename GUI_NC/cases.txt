@@ -1,0 +1,9 @@
+Case:											Expected Result:
+
+Nothing is entered								numWords and numChars acts as expected, the sort and filter are empty
+
+One word is entered								This should work as expected
+
+multiple spaces or tabs are between words, 		Words are still split up as expected
+
+non-letters are entered							word and character count is still correct, sorting is in normal lexicographical ordering

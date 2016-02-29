@@ -1,0 +1,26 @@
+Case:
+A blank String is entered.
+
+Result:
+Nothing is printed out. (Which makes sense, there are no permutations of a blank string). The factorial method gives the wrong answer, but that's fine since it is irrelevant
+
+
+Case:
+A String with length one is entered
+
+Result:
+The only permutation of the original String is given, which is what you would expect.
+
+
+Case:
+A string with 2 or more characters is entered, the String may have repeating characters, such as "BEEN".
+
+Result:
+Acts as you would expected. Permutations will be repeated, ie BEEN will be printed twice
+
+
+Case:
+Non-alphabetic characters are entered
+
+Result:
+They are used normally

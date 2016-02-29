@@ -1,0 +1,37 @@
+TestDocument.txt
+Nick Crews
+11/30/15
+
+Case:
+Non-alphabetic characters or multiple words are used.
+
+Result:
+They are used normally, with lexocpgraphic order determined by the String method compareToIgnoreCase().
+
+
+Case:
+Entries are added, deleted, and found at the beginning middle, and end of the list
+
+Result:
+Everything works!
+
+
+Case:
+Terms do not match case.
+
+Result:
+The result is found anyway, ignoring case.
+
+
+Case:
+A term is attempted to be added which is already on the list
+
+Result:
+The new term is not added and the user is told the problem
+
+
+Case:
+A term is attempted to be deleted which isn't on the list
+
+Result:
+Nothing happens and the user is informed

@@ -1,0 +1,5 @@
+Write a program to read a name and then check to see if it is on a disk file.  If not, add it to the end of the file.
+
+Option:  Include a JFileChooser to select files to read from the disk.
+
+Name your folder FILES followed by underscore and your initials.

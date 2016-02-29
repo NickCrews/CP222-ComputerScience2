@@ -1,0 +1,5 @@
+Case								Result
+A normal english sentence is entered				The sentence is reprinted in reverse order as expected
+Nothing is entered						Nothing is printed
+Numbers and symbols are used					Everything is treated as normal. Spaces are the things which separate words
+Multiple spaces are used between words				The large amount of whitespace is treated as one

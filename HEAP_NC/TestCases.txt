@@ -1,0 +1,36 @@
+Case:
+A list of length zero or one or any number is inputted
+
+Result:
+It works as expected
+
+
+
+Case:
+Integers, Strings, and any other Comparable object is supplied
+
+Result:
+It still works
+
+
+
+Case:
+primitive types such as int or double are used
+
+Result:
+It does not work. They must be wrapped in an object
+
+
+Case:
+pop(), peek(), and replace() are called on an empty heap
+
+Result:
+an error is thrown
+
+
+
+Case:
+sort() is called
+
+Result:
+a sorted ArrayList is returned, and the contents of the heap are gone. It takes up more memory than a straight HeapSort implementation where the top of the heap is placed at the end of the same storage array, but is the same idea and takes the same time.

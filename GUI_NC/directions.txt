@@ -1,0 +1,3 @@
+Write a program that produces a GUI for a simple calculator with a text field for inputting a sentence. The program reports the total number of words and characters (excluding blanks) in appropriately labeled text fields on the GUI. Use buttons to either display the words in alphabetical order or to display the words less than four characters.
+
+All your program files should be in a folder named GUI followed by an underscore and your initials.   You only need to include the documented JAVA source files plus your  test document. 

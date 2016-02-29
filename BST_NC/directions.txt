@@ -1,0 +1,3 @@
+(Optional) Write a program that asks for an integer and reports whether it is in the current tree or not.  If it is not in the tree, it adds it appropriately.
+
+Name the folder BST along with your initials. (This data structure will be included in your portfolio.)

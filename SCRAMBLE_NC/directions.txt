@@ -1,0 +1,5 @@
+Write a recursive program that takes a string as input and prints out all permutations of the string.
+
+Name your folder SCRAMBLE followed by underscore and your initials.
+
+You may want to include a counter so you are certain you got all permutation

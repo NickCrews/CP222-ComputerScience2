@@ -1,0 +1,7 @@
+Collect your classes for Stacks, Queues, Linked Lists, Binary Trees, and Heaps (Priority Queues) together in a folder (package). 
+
+Make sure they are all properly documented. 
+
+All these classes should be reusable in your future programs.
+
+Name the folder Portfolio along with your initials.

@@ -1,0 +1,26 @@
+TestCases.txt
+
+Case:
+Either the name or file field is blank.
+Result:
+The user is notified of what the problem is.
+
+Case:
+There is an error reading or writing to the file.
+Result:
+It is dealt with smoothly, and the user is notified of the problem.
+
+Case:
+A name in the file is stuck in the middle of other words or punctuation like Bob in sdgasdgBobasdfasdf
+Result:
+The name is still recognized
+
+Case:
+a name is in the file, and the same name is searched for, but with different capitaization. eg Bob is in the file and bob is searched.
+Result:
+The name is found anyways.
+
+Case:
+A non .txt or .text file is given
+Result:
+The file is not even attempted to be opened and the user is notified

@@ -1,0 +1,7 @@
+Write a program which inputs an array of integers from a disk file and sorts them with Selection sort, Bubble Sort, Insertion sort, and Quicksort.  Quicksort should be written recursively.  Include a counter in your algorithms so you can output how many comparisons were done by each sorting algorithm. At least run the Selection sort on lists of size 10,100, and 500 and verify that the number of comparisons matches the theoretical analysis.   
+ 
+Options:   
+
+To get a sense of the average case behavior of Insertion sort, try random lists and report the average number of comparisons.
+To get in the 90% and above range, include the Shell Sort or the Merge Sort.
+Name your folder SORT followed by underscore and your initials.

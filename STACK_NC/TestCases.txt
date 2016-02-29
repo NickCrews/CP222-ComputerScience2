@@ -1,0 +1,39 @@
+Case:
+An invalid input is entered. This is constituted by anyhting which isn't a number or +,-,*,or / operator, as well as things in non reverse oplish notation order, or unbalanced number of terms.
+
+Result:
+The user is notified of the problem
+
+
+Case:
+A blank string is inverted
+
+Result:
+There is an error.
+
+
+Case:
+a single number is entered
+
+Result:
+That number is the answer
+
+
+Case:
+a single operand is entered
+
+Result:
+error
+
+Case:
+multiple operators are entered in a row, such as "2 3 4 + *"
+
+Result:
+it works
+
+
+Case:
+multiple operations are chained such as "2 3 + 4 *"
+
+Result:
+it works
